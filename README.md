@@ -25,7 +25,7 @@ Feel free to explore my projects, learn more about my background, and get in tou
   - You can explore the interactive visualizations and insights through the [Tableau Dashboard](https://public.tableau.com/app/profile/maxwell.bernard/viz/SpotifyListeningHistory_16859605468160/WebDashboard).
  
 - **E-Commerce Tracking System:**  
-  This project involves a Python based e-commerce tracking system that can track and analysis key metrics of an e-commerce company
+  This project involves a Python based e-commerce tracking system that can track and analyse key metrics of an e-commerce company
   - You can find the code in the [GitHub Repository](https://github.com/maxwellbernard/e_commerce_tracker).  
 
 ## My Toolbox
