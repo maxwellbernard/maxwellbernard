@@ -1,9 +1,7 @@
 ## Hey, I'm Maxwell 👋
 
 ![Alt text](https://media.tenor.com/images/7b1a963ce680e1d070fa02f9ca9c6b9f/tenor.gif)
-<img align="left" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="150" alt="Coding animation">
 <img width="400" height="150" src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif">
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="150" alt="Coding animation">
 
 Welcome to my GitHub! 
 
