@@ -7,9 +7,9 @@
 
 Welcome to my GitHub! 
 
-I'm a data scientist who turns messy data into meaningful stories. When I'm not immersed in data, you’ll find me enjoying music 🎶, skiing 🎿, hiking 🥾, and exploring the great outdoors 🏔️. I enjoy digging through data, using my skills to uncover patterns and solve problems.
+I'm a data scientist who turns messy data into meaningful stories. When I'm not swimming in data, you’ll find me enjoying music 🎶, skiing 🎿, hiking 🥾, and exploring the great outdoors 🏔️.
 
-Feel free to explore my projects, learn more about my background, and get in touch as I'm always eager to expand my skill set.
+Feel free to explore my projects, learn more about my background, and get in touch as I'm always keen to expand my skill set.
 
 ## About Me
 - 💼 4 years of professional experience in the biotechnology (startup), educational and green energy sectors.
@@ -18,6 +18,10 @@ Feel free to explore my projects, learn more about my background, and get in tou
 - 🌍 Fun fact: I hold triple citizenship — Australian 🇦🇺, Polish 🇵🇱, and American 🇺🇸 — bringing a global outlook to everything I do.
 
 ## My Projects
+
+- **CNNs Multi Class Brain Tumor Detection**
+  -  This project explores the use of Convolutional Neural Networks (CNNs) for classifying brain tumors from MRI images. As part of the Machine Learning & Deep Learning course at Copenhagen Business School
+  -  You can find the code and accompanying paper [here](https://github.com/maxwellbernard/CNNs-Multi-Class-Brain-Tumor-Detection) 
 
 - **Spotify Listening History - Interactive Dashboard:**  
   This project involves analyzing my personal Spotify listening history data to gain insights into my listening patterns.  
