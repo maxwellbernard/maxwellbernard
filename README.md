@@ -5,7 +5,7 @@
 
 Welcome to my GitHub! 
 
-I'm a data scientist who turns messy data into meaningful stories. When I'm not swimming in data, you’ll find me enjoying music 🎶, skiing 🎿, hiking 🥾, and exploring the great outdoors 🏔️.
+I'm a data scientist with a foundation in Finance and Economics. When I'm not working, you’ll find me enjoying music 🎶, skiing 🎿, hiking 🥾, and exploring the great outdoors 🏔️.
 
 Feel free to explore my projects, learn more about my background, and get in touch as I'm always keen to expand my skill set.
 
